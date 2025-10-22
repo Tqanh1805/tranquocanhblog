@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu bản thân</title>
+      <link>http://localhost:1313/posts/gioi-thieu-ban-than/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gioi-thieu-ban-than/</guid>
+      <description>&lt;h1 id=&#34;giới-thiệu-bản-thân&#34;&gt;Giới thiệu bản thân&lt;/h1&gt;&#xA;&lt;p&gt;Xin chào! Tôi là &lt;strong&gt;Trần Quốc Anh&lt;/strong&gt;, một lập trình viên đam mê công nghệ và yêu thích JavaScript. Tôi bắt đầu hành trình lập trình của mình với mong muốn xây dựng các ứng dụng web hiện đại và hữu ích.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🌱 Đang học: JavaScript nâng cao, ReactJS&lt;/li&gt;&#xA;&lt;li&gt;💻 Công cụ yêu thích: VS Code, GitHub&lt;/li&gt;&#xA;&lt;li&gt;🎯 Mục tiêu: Trở thành một Full-Stack Developer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cảm ơn bạn đã ghé thăm blog của tôi. Hy vọng bạn sẽ tìm thấy những bài viết hữu ích tại đây!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript cơ bản</title>
+      <link>http://localhost:1313/posts/javascript-co-ban/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-co-ban/</guid>
+      <description>&lt;h1 id=&#34;javascript-cơ-bản&#34;&gt;JavaScript cơ bản&lt;/h1&gt;&#xA;&lt;p&gt;JavaScript là một ngôn ngữ lập trình phổ biến được sử dụng để phát triển web. Trong bài viết này, chúng ta sẽ tìm hiểu những khái niệm cơ bản:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Biến và kiểu dữ liệu&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;var&lt;/code&gt;, &lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kiểu dữ liệu: &lt;code&gt;string&lt;/code&gt;, &lt;code&gt;number&lt;/code&gt;, &lt;code&gt;boolean&lt;/code&gt;, &lt;code&gt;object&lt;/code&gt;, &lt;code&gt;array&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Câu lệnh điều kiện&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;if&lt;/code&gt;, &lt;code&gt;else&lt;/code&gt;, &lt;code&gt;switch&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vòng lặp&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;for&lt;/code&gt;, &lt;code&gt;while&lt;/code&gt;, &lt;code&gt;do...while&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Hãy bắt đầu hành trình học JavaScript của bạn từ những điều cơ bản này!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript nâng cao</title>
+      <link>http://localhost:1313/posts/javascript-nang-cao/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-nang-cao/</guid>
+      <description>&lt;h1 id=&#34;javascript-nâng-cao&#34;&gt;JavaScript nâng cao&lt;/h1&gt;&#xA;&lt;p&gt;Trong bài viết này, chúng ta sẽ tìm hiểu các khái niệm nâng cao trong JavaScript:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Closure&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Closure là một hàm có thể ghi nhớ phạm vi mà nó được tạo ra.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Promise và Async/Await&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quản lý các tác vụ bất đồng bộ một cách hiệu quả.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Module&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sử dụng &lt;code&gt;import&lt;/code&gt; và &lt;code&gt;export&lt;/code&gt; để tổ chức mã nguồn.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Hãy cùng khám phá những khái niệm này để nâng cao kỹ năng lập trình của bạn!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và API</title>
+      <link>http://localhost:1313/posts/javascript-va-api/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-va-api/</guid>
+      <description>&lt;h1 id=&#34;javascript-và-api&#34;&gt;JavaScript và API&lt;/h1&gt;&#xA;&lt;p&gt;API (Application Programming Interface) cho phép JavaScript giao tiếp với các dịch vụ bên ngoài:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gửi yêu cầu HTTP&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sử dụng &lt;code&gt;fetch&lt;/code&gt; hoặc &lt;code&gt;axios&lt;/code&gt; để gửi yêu cầu GET, POST.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Xử lý dữ liệu JSON&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Phân tích và hiển thị dữ liệu từ API.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ví dụ thực tế&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kết nối với API thời tiết, API bản đồ.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;JavaScript và API là sự kết hợp mạnh mẽ để xây dựng các ứng dụng web tương tác!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và các Frameworks</title>
+      <link>http://localhost:1313/posts/javascript-va-frameworks/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-va-frameworks/</guid>
+      <description>&lt;h1 id=&#34;javascript-và-các-frameworks&#34;&gt;JavaScript và các Frameworks&lt;/h1&gt;&#xA;&lt;p&gt;JavaScript có rất nhiều frameworks mạnh mẽ để phát triển ứng dụng web:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;React&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Xây dựng giao diện người dùng.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vue.js&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dễ học, dễ sử dụng.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angular&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Framework toàn diện cho ứng dụng lớn.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Chọn framework phù hợp sẽ giúp bạn phát triển ứng dụng hiệu quả hơn!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và DOM</title>
+      <link>http://localhost:1313/posts/javascript-va-dom/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-va-dom/</guid>
+      <description>&lt;h1 id=&#34;javascript-và-dom&#34;&gt;JavaScript và DOM&lt;/h1&gt;&#xA;&lt;p&gt;DOM (Document Object Model) là một giao diện lập trình cho phép JavaScript tương tác với nội dung HTML:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Truy cập phần tử&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;document.getElementById&lt;/code&gt;, &lt;code&gt;document.querySelector&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thay đổi nội dung&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;element.textContent&lt;/code&gt;, &lt;code&gt;element.innerHTML&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thêm và xóa phần tử&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;document.createElement&lt;/code&gt;, &lt;code&gt;parentNode.removeChild&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;DOM giúp JavaScript làm cho trang web trở nên sống động và tương tác hơn!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và Node.js</title>
+      <link>http://localhost:1313/posts/javascript-va-nodejs/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-va-nodejs/</guid>
+      <description>&lt;h1 id=&#34;javascript-và-nodejs&#34;&gt;JavaScript và Node.js&lt;/h1&gt;&#xA;&lt;p&gt;Node.js là một môi trường chạy JavaScript trên server:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Xây dựng server&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sử dụng &lt;code&gt;http&lt;/code&gt; module để tạo server đơn giản.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Quản lý tệp tin&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Đọc và ghi tệp tin với &lt;code&gt;fs&lt;/code&gt; module.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sử dụng npm&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cài đặt và quản lý các thư viện JavaScript.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Node.js mở rộng khả năng của JavaScript từ trình duyệt sang server!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và React</title>
+      <link>http://localhost:1313/posts/javascript-va-react/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-va-react/</guid>
+      <description>&lt;h1 id=&#34;javascript-và-react&#34;&gt;JavaScript và React&lt;/h1&gt;&#xA;&lt;p&gt;React là một thư viện JavaScript mạnh mẽ để xây dựng giao diện người dùng:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Component&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Xây dựng các thành phần giao diện tái sử dụng.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;State và Props&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quản lý dữ liệu và truyền dữ liệu giữa các component.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hooks&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sử dụng các hook như &lt;code&gt;useState&lt;/code&gt;, &lt;code&gt;useEffect&lt;/code&gt; để quản lý trạng thái và vòng đời.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;React giúp JavaScript trở nên mạnh mẽ hơn trong việc xây dựng ứng dụng web hiện đại!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript và TypeScript</title>
+      <link>http://localhost:1313/posts/javascript-va-typescript/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-va-typescript/</guid>
+      <description>&lt;h1 id=&#34;javascript-và-typescript&#34;&gt;JavaScript và TypeScript&lt;/h1&gt;&#xA;&lt;p&gt;TypeScript là một phần mở rộng của JavaScript, cung cấp các tính năng bổ sung:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kiểu dữ liệu tĩnh&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Xác định kiểu dữ liệu cho biến, hàm.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interface và Class&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tăng cường khả năng tổ chức mã nguồn.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Công cụ mạnh mẽ&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hỗ trợ tốt hơn cho IDE và phát hiện lỗi sớm.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;TypeScript giúp JavaScript trở nên an toàn và dễ bảo trì hơn!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ứng dụng JavaScript</title>
+      <link>http://localhost:1313/posts/ung-dung-javascript/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ung-dung-javascript/</guid>
+      <description>&lt;h1 id=&#34;ứng-dụng-javascript&#34;&gt;Ứng dụng JavaScript&lt;/h1&gt;&#xA;&lt;p&gt;JavaScript có rất nhiều ứng dụng trong thực tế, đặc biệt là trong phát triển web:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tạo giao diện động&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Thay đổi nội dung trang web mà không cần tải lại.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Xử lý sự kiện&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lắng nghe và phản hồi các hành động của người dùng.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tích hợp API&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kết nối với các dịch vụ bên ngoài như Google Maps, OpenWeather.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;JavaScript là công cụ mạnh mẽ để xây dựng các ứng dụng web hiện đại!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Về tôi</title>
+      <link>http://localhost:1313/posts/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about-me/</guid>
+      <description>&lt;h1 id=&#34;-trần-quốc-anh&#34;&gt;🧑‍💻 Trần Quốc Anh&lt;/h1&gt;&#xA;&lt;p&gt;Xin chào! Tôi là &lt;strong&gt;Trần Quốc Anh&lt;/strong&gt;, đam mê lập trình web và yêu thích công nghệ.&lt;/p&gt;&#xA;&lt;p&gt;Tôi tạo blog này để chia sẻ kiến thức lập trình &lt;strong&gt;Java&lt;/strong&gt; và &lt;strong&gt;JavaScript&lt;/strong&gt;, cũng như ghi lại hành trình học tập của mình.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🌱 Đang học: Lập trình Java &amp;amp; Web&lt;/li&gt;&#xA;&lt;li&gt;💻 Công cụ ưa thích: VS Code, GitHub, IntelliJ IDEA&lt;/li&gt;&#xA;&lt;li&gt;🐦 Biểu tượng yêu thích: &lt;strong&gt;Phượng hoàng chibi&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Không có dòng code nào là vô nghĩa nếu bạn học được điều gì đó từ nó.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

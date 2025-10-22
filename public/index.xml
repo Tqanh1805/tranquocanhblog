@@ -1,0 +1,90 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog Lập Trình của Trần Quốc Anh</title>
+        <link>http://localhost:1313/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Wed, 22 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Java Cơ Bản</title>
+    <link>http://localhost:1313/posts/java-co-ban/</link>
+    <pubDate>Wed, 22 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/java-co-ban/</guid>
+    <description><![CDATA[<p>Bài viết về Java cơ bản. Java là một ngôn ngữ lập trình hướng đối tượng mạnh mẽ và phổ biến, được sử dụng rộng rãi trong phát triển ứng dụng doanh nghiệp, ứng dụng di động, và hệ thống nhúng. Trong bài viết này, chúng ta sẽ đi sâu vào các khái niệm cơ bản và nâng cao của Java, bao gồm:</p>
+<ol>
+<li>
+<p><strong>Cấu trúc cơ bản của một chương trình Java</strong>: Tìm hiểu cách viết một chương trình Java đơn giản, từ khai báo lớp, phương thức, đến cách biên dịch và chạy chương trình.</p>]]></description>
+</item>
+<item>
+    <title>Java Nâng Cao</title>
+    <link>http://localhost:1313/posts/java-nang-cao/</link>
+    <pubDate>Wed, 22 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/java-nang-cao/</guid>
+    <description><![CDATA[<p>Bài viết về Java nâng cao. Trong bài viết này, tôi sẽ trình bày các khái niệm nâng cao như lập trình hướng đối tượng, xử lý đa luồng, và quản lý bộ nhớ trong Java.</p>
+<p>Java nâng cao là một chủ đề thú vị và đầy thử thách, dành cho những lập trình viên muốn nâng cao kỹ năng và hiểu biết của mình. Trong bài viết này, chúng ta sẽ khám phá các khía cạnh nâng cao của Java, bao gồm:</p>]]></description>
+</item>
+<item>
+    <title>JavaScript và React</title>
+    <link>http://localhost:1313/posts/javascript-va-react/</link>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-va-react/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript và React. React là thư viện JavaScript phổ biến để xây dựng giao diện người dùng. Tôi sẽ trình bày cách tạo một ứng dụng React cơ bản.</p>
+<p>JavaScript và React là một sự kết hợp hoàn hảo để xây dựng các giao diện người dùng hiện đại. Trong bài viết này, chúng ta sẽ khám phá cách React giúp đơn giản hóa việc phát triển giao diện người dùng. Các nội dung chính bao gồm:</p>]]></description>
+</item>
+<item>
+    <title>JavaScript và Node.js</title>
+    <link>http://localhost:1313/posts/javascript-va-nodejs/</link>
+    <pubDate>Mon, 20 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-va-nodejs/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript và Node.js. Node.js là môi trường chạy JavaScript phía server, cho phép xây dựng các ứng dụng web mạnh mẽ. Tôi sẽ hướng dẫn cách cài đặt và sử dụng Node.js.</p>
+<p>JavaScript và Node.js là một sự kết hợp mạnh mẽ để phát triển các ứng dụng phía server. Trong bài viết này, chúng ta sẽ tìm hiểu cách Node.js mở rộng khả năng của JavaScript để xây dựng các ứng dụng backend. Các nội dung chính bao gồm:</p>]]></description>
+</item>
+<item>
+    <title>JavaScript và Frameworks</title>
+    <link>http://localhost:1313/posts/javascript-va-frameworks/</link>
+    <pubDate>Sun, 19 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-va-frameworks/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript và Frameworks. Frameworks như React, Angular, và Vue giúp tăng tốc phát triển ứng dụng web. Tôi sẽ giới thiệu các tính năng nổi bật của từng framework.</p>
+<p>JavaScript và Frameworks là một chủ đề quan trọng trong phát triển web hiện đại. Trong bài viết này, chúng ta sẽ khám phá các framework phổ biến của JavaScript và cách chúng giúp tăng tốc quá trình phát triển ứng dụng. Các nội dung chính bao gồm:</p>]]></description>
+</item>
+<item>
+    <title>JavaScript và DOM</title>
+    <link>http://localhost:1313/posts/javascript-va-dom/</link>
+    <pubDate>Sat, 18 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-va-dom/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript và DOM. DOM là mô hình tài liệu của HTML, cho phép JavaScript tương tác và thay đổi nội dung trang web. Tôi sẽ trình bày cách sử dụng DOM để tạo hiệu ứng động.</p>
+<p>JavaScript và DOM (Document Object Model) là một phần không thể thiếu trong phát triển web. Trong bài viết này, chúng ta sẽ khám phá cách JavaScript tương tác với DOM để tạo ra các trang web động và tương tác. Các nội dung chính bao gồm:</p>]]></description>
+</item>
+<item>
+    <title>JavaScript và API</title>
+    <link>http://localhost:1313/posts/javascript-va-api/</link>
+    <pubDate>Thu, 16 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-va-api/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript và API. API là cầu nối giữa ứng dụng và các dịch vụ bên ngoài. Tôi sẽ hướng dẫn cách sử dụng JavaScript để gọi API và xử lý dữ liệu trả về từ server.</p>
+<p>JavaScript và API là một chủ đề quan trọng trong phát triển web hiện đại. Trong bài viết này, chúng ta sẽ tìm hiểu cách JavaScript tương tác với các API để xây dựng các ứng dụng web mạnh mẽ và linh hoạt. Các nội dung chính bao gồm:</p>]]></description>
+</item>
+<item>
+    <title>JavaScript Nâng Cao</title>
+    <link>http://localhost:1313/posts/javascript-nang-cao/</link>
+    <pubDate>Tue, 14 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-nang-cao/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript nâng cao. Trong bài viết này, tôi sẽ trình bày các khái niệm nâng cao như lập trình hướng đối tượng, xử lý bất đồng bộ, và cách sử dụng các thư viện JavaScript phổ biến như React, Angular, và Vue để xây dựng các ứng dụng web phức tạp. Ngoài ra, tôi sẽ hướng dẫn cách tối ưu hóa hiệu suất và quản lý trạng thái ứng dụng.</p>]]></description>
+</item>
+<item>
+    <title>JavaScript Cơ Bản</title>
+    <link>http://localhost:1313/posts/javascript-co-ban/</link>
+    <pubDate>Sun, 12 Oct 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/javascript-co-ban/</guid>
+    <description><![CDATA[<p>Bài viết về JavaScript cơ bản. JavaScript là ngôn ngữ lập trình phổ biến nhất hiện nay, được sử dụng để tạo các ứng dụng web tương tác. Trong bài viết này, tôi sẽ trình bày các khái niệm cơ bản như biến, hàm, vòng lặp, và cách sử dụng JavaScript trong trình duyệt để tạo hiệu ứng động, xử lý sự kiện, và tương tác với người dùng.</p>]]></description>
+</item>
+</channel>
+</rss>
